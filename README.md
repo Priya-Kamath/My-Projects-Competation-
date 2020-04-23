@@ -17,3 +17,13 @@ Our out of sample performance was an RMSE of .1255 and an R-squared of .9017. Th
 
 Analytics Challenge - University of Utah Computer Science Department.
 
+Cricket is famous game in India and Indian Premier League(IPL) is a compitation for Cricket savvy audiance and investors wherein each state/province will have a team comprising of international cricket players, bidded and purchased by business tycoons and industrilists. Different brands will invest and market using the commercials that are broadcasted in between the matches for marketing purposes. Moreover, the winning price is a substantial amount of money. We picked this analysis to help the IPL team buyers know which is the best team to invest their money on.
+
+Project Objectives:
+Who will win IPL 2019
+Factors such as batting first advantageous for winning or batting second
+How many runs the teams might make on average basis
+Impact of weather on the overall points
+Impact of winning the toss on winning the match
+Predicting the over-all wins
+
